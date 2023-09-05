@@ -1,0 +1,27 @@
+body{
+    background-image: url(https://w0.peakpx.com/wallpaper/4/417/HD-wallpaper-frozen-powerpoint-background-disney-frozen-snowflake.jpg)
+}
+.table{
+    width: 40rem;
+    height: 30rem;
+    border: 2px solid black;
+    background-color: rgba(13, 12, 10, 0.431);
+}
+.table{
+    border: 1px solid black;
+    background-color: rgba(74, 74, 195, 0.331);
+    z-index: -1;
+}
+.t1{
+    margin-right:20rem;
+    margin-top: -25rem;
+    border-collapse: collapse;
+}
+.t2{
+    margin-left: 300px;
+    margin-top: -390px;
+    border-collapse: collapse;
+}
+th{
+    background-color: darkslateblue;
+}
